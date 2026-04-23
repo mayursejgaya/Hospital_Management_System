@@ -39,7 +39,6 @@
 
 </head>
 <body>
-<h1>Project</h1>
 <%@include file="component/navbar.jsp" %>
 
 

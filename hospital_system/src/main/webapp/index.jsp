@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index page</title>
+<title>index page123</title>
 <%@include file="component/allcss.jsp"%>
 
 <style type="text/css">
